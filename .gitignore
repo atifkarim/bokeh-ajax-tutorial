@@ -102,3 +102,7 @@ ENV/
 
 #vim
 *.swp
+
+bokeh-ajax-tutorial/env
+bokeh-ajax-tutorial/obj
+.vs
